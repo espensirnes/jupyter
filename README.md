@@ -1,2 +1,2 @@
-# A repsoitory for shareing stuff from Jupyter
-Added anoter few erors that Derec can fiks
+# A repository for sharing stuff from Jupyter
+Added another few errors that Derek The Wonder Git can fix
